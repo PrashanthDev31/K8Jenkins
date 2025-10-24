@@ -3,7 +3,6 @@
 
 ![Architecture Diagram](assets/diagram.png)
 
-
 This repository demonstrates a **complete DevOps pipeline** that automates the deployment of a **microservices-based application** to **Google Kubernetes Engine (GKE)** using **Jenkins**, **Terraform principles**, and **Kubernetes manifests**.
 
 The setup provisions and deploys a sample **store application** consisting of multiple services (**RabbitMQ**, **Order Service**, **Product Service**, and **Store Front**) — showcasing modern DevOps practices like container orchestration, infrastructure as code, CI/CD automation, and monitoring.
